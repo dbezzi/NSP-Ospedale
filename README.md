@@ -1,2 +1,2 @@
 # NSP-Ospedale
-Implementazione di un solutore PLI per un problema di Nurse Scheduling
+Software di supporto alle decisioni per la pianificazione dei turni del personale sanitario. Costruito sulle esigenze del reparto rianimazione dell'Ospedale di Crema.
